@@ -1,0 +1,11 @@
+Module: Power BI
+Lesson: Advanced Dax (calculate)
+
+Homework 1:
+	1.1 create a matrix containing product group & store_id on rows
+	1.2 Use Keepfilters to create measures that show sales for each of the 3 stores
+	1.3 Use Removefilters with variables to create a single measure for % of Store Sales
+Homework 2:
+	2.1 create a matrix with the store ID, product group, and customer name on rows, filter for 2018 and store 8 and Top  		10 customer
+	2.2 use allexcept to create a measure that only accepts filters for the date, store ID product group, and customer
+	2.3 create a % of store-level sales measure to calculate the percent of sales by the top 10 customers at the store 		level
